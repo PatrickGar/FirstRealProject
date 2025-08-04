@@ -1,3 +1,3 @@
-print("This is a super dope cowrse adn I love it!")
+print("This is a super dope course and I love it!")
 
-print("This is some bad code I shoudl really remove...")
+print("This is really great. I wrote this on August 5, 2025.")
